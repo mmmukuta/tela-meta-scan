@@ -19,3 +19,6 @@ Every time you share a photo, you might be unintentionally leaking your exact GP
 ## 🚀 How to Install and Run
 
 You can easily download and run this tool using your Command Prompt (CMD) or Terminal.
+
+```bash
+   git clone [https://github.com/mmmukuta/tela-meta-scan.git](https://github.com/mmmukuta/tela-meta-scan.git)
